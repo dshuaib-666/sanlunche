@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "mpu9250.h": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "string": "c",
+        "math.h": "c",
+        "mpu6500sport.h": "c",
+        "stdint.h": "c",
+        "motor_counter.h": "c"
+    },
+    "files.autoSave": "onWindowChange"
+}
